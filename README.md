@@ -27,7 +27,7 @@ There are many special monsters that appear in the Colosseum, they are bigger an
 
 # Ender Trap
 ![picture](https://github.com/user-attachments/assets/76909a56-f043-4c6d-9385-6d9a54ab8d6e)<br>
-When gamerules ```keepInventory``` and ```doImmediateRespawn``` are false, items dropped after a player dies in the Colosseum will be collected into a room in the Colosseum. Destroy the armor stand inside the room to recover your items.<br>
+When gamerules ```keepInventory``` and ```doImmediateRespawn``` are false, items dropped after a player dies in the Colosseum will be collected into a room in the Colosseum. Destroy the Armor Stand inside the room to recover your items.<br>
 
 # Configuration
 ![picture](https://github.com/user-attachments/assets/f3ed09e6-3e5b-43fb-8a76-03b82586ced7)<br>
@@ -36,9 +36,9 @@ You can access a chat based configuration menu by running the command ```/functi
 
 # Other
 There may be a lot of entities in the Colosseum that cause the game lag, you can run the command<br>
- ```/function colosseum_of_fools:config_main/low_performance_mode``` to optimize these entities.<br>
+```/function colosseum_of_fools:config_main/low_performance_mode``` to optimize these entities.<br>
 <br>
 If you die in the Colosseum and can't find the item you dropped, you can run the command<br>
- ```/function colosseum_of_fools:config_main/backup/1``` to recover the item you dropped after your last death.<br>
+```/function colosseum_of_fools:backup_inventory``` to recover the item you dropped after your last death.<br>
 <br>
 If you have any problems while using this datapack, please report it to me in the comments. thank you!<br>
